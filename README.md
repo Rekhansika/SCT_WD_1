@@ -59,5 +59,5 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Author
 Rekhansika Goluguri - 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering,
 Godavari Global University
